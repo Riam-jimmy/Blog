@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: blog
+heroText: jimmy's blog
 tagline: 网络安全技术分享博客，积跬步以至千里，致敬每个爱学习的你。
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -10,16 +10,16 @@ tagline: 网络安全技术分享博客，积跬步以至千里，致敬每个�
 features: # 可选的
   - title: 网络安全
     details: pwn、web、渗透等安全技术
-    link: /web/ # 可选
+    link: /security/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 页面
-    details: html(5)/css(3)，前端页面相关技术
-    link: /ui/
-    imgUrl: /img/ui.png
   - title: 安全小工具
     details: ida、netcat、御剑等工具
     link: /technology/
-    imgUrl: /img/other.png
+    imgUrl: /img/tools.png 
+  - title: 其他
+    details: 技术分享
+    link: /ui/
+    imgUrl: /img/ui.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
